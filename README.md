@@ -1,6 +1,8 @@
 Yii 2 Basic Project Template
 ============================
 
+[![Join the chat at https://gitter.im/mootensai/yii2-app-basic](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mootensai/yii2-app-basic?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Yii 2 Basic Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
 rapidly creating small projects.
 
